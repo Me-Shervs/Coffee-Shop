@@ -199,7 +199,7 @@ section {
 .home {
     display: flex;
     flex-direction: row;
-    background-image: url("images/background/1.png");
+    background-image: url(images/background/1.png);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center; 
@@ -348,7 +348,7 @@ section {
 }
 
 .headline-1 {
-    background-image: url("images/gray1.jpg");
+    background-image: url(images/gray1.jpg);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center;
@@ -361,7 +361,7 @@ section {
 }
 
 .headline-2 {
-    background-image: url("images/coffee-maker.jpg");
+    background-image: url(images/coffee-maker.jpg);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center;
@@ -374,7 +374,7 @@ section {
 }
 
 .headline-3 {
-    background-image: url("images/coffee-pic.jpg");
+    background-image: url(images/coffee-pic.jpg);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center;
@@ -387,7 +387,7 @@ section {
 }
 
 .headline-4 {
-    background-image: url("images/barista.jpg");
+    background-image: url(images/barista.jpg);
     background-repeat: no-repeat;
     background-size: cover;       
     background-position: center;
@@ -432,7 +432,7 @@ section {
 }
 
 .menu-container {
-    background-image: url("images/menu/NoirMenu2.png");
+    background-image: url(images/menu/NoirMenu2.png);
     display: flex;
     background-repeat: no-repeat;
     background-size: cover;       
